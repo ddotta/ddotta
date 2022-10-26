@@ -8,9 +8,9 @@
 </p>
 </h1>
 <p align="center">
-  I am currently working as a <b><i>stastistician</i></b></br>
-  at <a href="https://www.insee.fr/en/accueil">Insee (France)</br>.</br>
+  I am currently working as a stastistician</br>
+  at <a href="https://www.insee.fr/en/accueil">Insee (France)</a>.</br>
   See the repositories :  
-  - [InseeFr](https://github.com/InseeFr)
-  - [InseeFrLab](https://github.com/InseeFrLab)
+  - <a href="https://github.com/InseeFr">InseeFr</a>
+  - <a href="https://github.com/InseeFrLab">InseeFrLab</a>
 </p>
