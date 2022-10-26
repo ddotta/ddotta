@@ -11,6 +11,8 @@
   I am currently working as a stastistician</br>
   at <a href="https://www.insee.fr/en/accueil">Insee (France)</a>.</br>
   See the repositories :  
-  - <a href="https://github.com/InseeFr">InseeFr</a>
-  - <a href="https://github.com/InseeFrLab">InseeFrLab</a>
+  <ul>
+    <li><a href="https://github.com/InseeFr">InseeFr</a></li>
+    <li><a href="https://github.com/InseeFrLab">InseeFrLab</a></li>
+</ul>
 </p>
