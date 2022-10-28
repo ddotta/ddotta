@@ -8,7 +8,7 @@
 
 </h1>
 <p align="center">
-  I am currently working as a stastistician and R developper</br>
+  I am currently working as a statistician and R developper</br>
   at <a href="https://www.insee.fr/en/accueil">Insee (France)</a>.</br>
   See the repositories :</br>  
     <a href="https://github.com/InseeFr">
