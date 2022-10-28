@@ -17,5 +17,5 @@
     <a href="https://github.com/InseeFrLab">
        <img alt="Github account of InseeFrLab" src="https://shields.io/badge/InseeFrLab-333?logo=github&logoColor=white"/></a></br>
   Up-to-date versions of my CV are available for <a href="https://ddotta.github.io/CV/CV"><img alt="web"/></a> and 
-  <a href="[https://ddotta.github.io/CV/CV](https://github.com/ddotta/CV/raw/print/CV.pdf)"><img alt="pdf"/></a>.
+  <a href="https://github.com/ddotta/CV/raw/print/CV.pdf"><img alt="pdf"/></a>.
 </p>
