@@ -17,5 +17,7 @@
     <a href="https://github.com/InseeFrLab">
        <img alt="Github account of InseeFrLab" src="https://shields.io/badge/InseeFrLab-333?logo=github&logoColor=white"/></a></br>
   Up-to-date versions of my CV are available for <a href="https://ddotta.github.io/CV/CV"><img alt="web"/></a> and 
-  <a href="https://github.com/ddotta/CV/raw/print/CV.pdf"><img alt="pdf"/></a>.
+  <a href="https://github.com/ddotta/CV/raw/print/CV.pdf"><img alt="pdf"/></a>.  
+  <br>
+  I'm the author of the R packages <a href="https://github.com/ddotta/parquetize">parquetize</a> and <a href="https://github.com/ddotta/tablexlsx">tablexlsx</a>, I maintain the <a href="https://github.com/ddotta/awesome-polars">Awesome Polars list</a> and I contribute to the open source projects of InseeFrLab <a href="https://github.com/InseeFrLab/utilitR">utilitr</a>, <a href="https://github.com/InseeFrLab/DoReMIFaSol">DoReMIFaSol</a>...
 </p>
