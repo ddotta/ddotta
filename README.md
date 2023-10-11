@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋,
+  Hello 👋,
   </br>I am Damien
   </br>
   <a href="https://www.linkedin.com/in/damien-dotta-078a18101/">
