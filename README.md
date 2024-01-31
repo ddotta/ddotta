@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello 👋,
-  </br>I am Damien
+  </br>I am Damien (him)
   </br>
   <a href="https://www.linkedin.com/in/damien-dotta-078a18101/">
     <img alt="LinkedIn account of Damien Dotta" src="https://shields.io/badge/LinkedIn-damiendotta-333?logo=linkedin&logoColor=white"/>
