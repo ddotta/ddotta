@@ -8,7 +8,7 @@
 
 </h1>
 <p align="center">
-  I'm currently working as a data scientist</br>
+  I'm working as a data scientist</br>
   at <a href="https://agreste.agriculture.gouv.fr/agreste-web/">Agreste (France)</a> and previsously at <a href="https://www.insee.fr/en/accueil">Insee (France)</a>.</br>
   See the repositories :</br>  
     <a href="https://github.com/InseeFr">
