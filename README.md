@@ -10,7 +10,7 @@
 <p align="center">
   I'm working as a data scientist</br>
   at <a href="https://agreste.agriculture.gouv.fr/agreste-web/">Agreste (France)</a> and previsously at <a href="https://www.insee.fr/en/accueil">Insee (France)</a>.</br>
-  See the repositories :</br>  
+  See this organizations:</br>  
     <a href="https://github.com/SSM-Agriculture">
        <img alt="Github account of SSM-Agriculture" src="https://shields.io/badge/SSM-Agriculture-333?logo=github&logoColor=white"/></a>, 
     <a href="https://github.com/InseeFr">
